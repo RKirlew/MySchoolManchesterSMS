@@ -69,7 +69,7 @@ void controlPanel(){
 	gotoxy(48,8);
 	printf("4)Make Report Card 5)View Report Card  6)Settings 7)Delete Student ");
 	gotoxy(50,10);
-	printf("8) View Student Grades      9)Exit MySchoolJamaica \n");
+	printf("8) View Student Grades      9)Exit MySchoolManchester \n");
 	
 	printf("->");
 	scanf("%d",&option);
